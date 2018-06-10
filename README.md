@@ -1,2 +1,2 @@
 # pytorch
-pytorch infographic
+Infographic for the pytorch deep learning library
